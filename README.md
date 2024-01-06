@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm Currently Studying On Mymensingh Engineering College<br>😁I'm Looking For Help with C++ programmer<br>🌱 I'm Currently Learning C++ Language<br>😄 Pronouns: Zubayer<br>⚡ Fun fact: I'm very ambitious <br><br>
+🔭 I'm Currently Studying On Mymensingh Engineering College<br>😁I'm Looking For Help with C++ programmer<br>🌱 I'm Currently Learning C++ Language<br>😄 Pronouns: Zubayer<br>⚡ Fun fact: I'm very ambitious about programming <br><br>
 
 
 ## 🌐 Socials:
