@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋,I'm  Abdullah Zubayer Talukder</h1>
+//<h1 align="center">Hi 👋,I'm  Abdullah Zubayer Talukder</h1>
 <h3 align="center">A passionate Software Engineer From Bangladesh</h3>
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdullah Zubayer Talukder
+=================================================================================================================================================
+
+Flutter App Developer II DevOps
+-------------------------------
+
+I've been learning programing almost 2+ years . At first I have learned C language. Then I learn C++ language solved nearly 100+ code on CodeForce. After while I've learned Java , C#, Python , Dart fundamentals. After learning various languages I have discovered that I have to focus on a specific Technology. Moreover I'm a huge fan of making new things to solve my daily problems. So , I've decided to learn Flutter. I am very much passionate about making ROBUST App and face new challenges to explore the modern ERA. SO LET'S code together, And let's grow together.
+
+* 🌍  I'm based in Mymensingh cuttently.
+* ✉️  You can contact me at [abdullahzubayertalukder.mec@gmail.com](mailto:abdullahzubayertalukder.mec@gmail.com)
+* 🧠  I'm learning Dart Language
+* 🤝  I'm open to collaborating on Flutter Technologies
+* ⚡  I'm a Muslim,
+
+  
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubayer-talukder&label=Profile%20views&color=0e75b6&style=flat" alt="zubayer-talukder" /> </p>
 
