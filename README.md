@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================================
 
 <h3 align="center">Flutter App Developer II DevOps</h3>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I've been learning programing almost 2+ years . At first I have learned C language. Then I learn C++ language solved nearly 100+ code on CodeForce. After while I've learned Java , C#, Python , Dart fundamentals. After learning various languages I have discovered that I have to focus on a specific Technology. Moreover I'm a huge fan of making new things to solve my daily problems. So , I've decided to learn Flutter. I am very much passionate about making ROBUST App and face new challenges to explore the modern ERA. SO LET'S code together, And let's grow together.
 
@@ -46,8 +46,6 @@ I've been learning programing almost 2+ years . At first I have learned C langua
 <a href="http://www.github.com/zubayer-talukder"><img src="https://github-readme-stats.vercel.app/api?username=zubayer-talukder&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="zubayer-talukder's GitHub stats" /></a>
 
 <a href="http://www.github.com/zubayer-talukder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zubayer-talukder&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/zubayer-talukder"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=zubayer-talukder&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/zubayer-talukder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubayer-talukder&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
