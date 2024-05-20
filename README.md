@@ -51,5 +51,5 @@ I've been learning programing almost 2+ years . At first I have learned C langua
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/zubbayer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-<img src= "https://i.postimg.cc/J4xDzcS7/bmc-qr.png" height="32px" width="20px"> </li> 
+<img src= "https://i.postimg.cc/J4xDzcS7/bmc-qr.png" height="100px" width="20px"> </li> 
 
