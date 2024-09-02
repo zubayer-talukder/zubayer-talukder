@@ -52,6 +52,9 @@ I've been learning programing almost 2+ years . At first I have learned C langua
 
 <a href="https://github.com/zubayer-talukder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubayer-talukder&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+Watch A snake is eating my contribution
+
+
 ![snake gif](https://github.com/zubayer-talukder/zubayer-talukder/blob/output/github-contribution-grid-snake.gif)
 
  Support Me
