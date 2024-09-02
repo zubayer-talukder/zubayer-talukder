@@ -53,7 +53,32 @@ I've been learning programing almost 2+ years . At first I have learned C langua
 <a href="https://github.com/zubayer-talukder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubayer-talukder&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 Watch A snake is eating my contribution
+              
+- name: generate-snake-game-from-github-contribution-grid
 
+
+              
+  uses: Platane/snk@v3.2.0
+
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.zubayer-talukder}}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 ![snake gif](https://github.com/zubayer-talukder/zubayer-talukder/blob/output/github-contribution-grid-snake.gif)
 
