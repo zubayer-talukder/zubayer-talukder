@@ -4,10 +4,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdullah Zubayer Talukder
 =================================================================================================================================================
 
-<h3 align="center">Flutter App Developer II DevOps</h3>
+<h3 align="center">AWS and DevOps enthusiast </h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I've been learning programing almost 2+ years . At first I have learned C language. Then I learn C++ language solved nearly 100+ code on CodeForce. After while I've learned Java , C#, Python , Dart fundamentals. After learning various languages I have discovered that I have to focus on a specific Technology. Moreover I'm a huge fan of making new things to solve my daily problems. So , I've decided to learn Flutter. I am very much passionate about making ROBUST App and face new challenges to explore the modern ERA. SO LET'S code together, And let's grow together.
+I've been learning programing almost 2+ years . At first I have learned C language. Then I learn C++ language solved nearly 300+ code on CodeForce. After while I've learned Java , C#, Python , Dart fundamentals. After learning various languages I have discovered that I have to focus on a specific Technology. Moreover I'm a huge fan of making new things to solve my daily problems. So , I've decided to learn Flutter. I am very much passionate about making ROBUST App and face new challenges to explore the modern ERA. SO LET'S code together, And let's grow together.
 
 * 🌍  I'm based in Mymensingh cuttently.
 * ✉️  You can contact me at [Email](mailto:abdullahzubayertalukder@gmail.com)
